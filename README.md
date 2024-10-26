@@ -1,23 +1,6 @@
-
-___________.__    .__         .__         .__                      
-\__    ___/|  |__ |__| ______ |__| ______ |  |   _______  __ ____  
-  |    |   |  |  \|  |/  ___/ |  |/  ___/ |  |  /  _ \  \/ // __ \ 
-  |    |   |   Y  \  |\___ \  |  |\___ \  |  |_(  <_> )   /\  ___/ 
-  |____|   |___|  /__/____  > |__/____  > |____/\____/ \_/  \___  >
-                \/        \/          \/                        \/ 
-
-
-<!--
-**iceisnicehq/iceisnicehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                       _  _                       _
+                      (_)(_)                     | |
+      __ _  ___   ___  _  _  ______   __ _  _ __ | |_
+     / _` |/ __| / __|| || ||______| / _` || '__|| __|
+    | (_| |\__ \| (__ | || |        | (_| || |   | |_
+     \__,_||___/ \___||_||_|         \__,_||_|    \__|
